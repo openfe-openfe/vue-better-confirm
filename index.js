@@ -1,4 +1,4 @@
-var Slider = require('./slider.vue');
+var Confirm = require('./confirm.vue');
 module.exports = {
-  Slider
+  Confirm
 }

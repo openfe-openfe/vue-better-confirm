@@ -21,6 +21,10 @@ template模板使用例子如下
 <confirm ref="confirm" @confirm="yourEvent" text="标题内容" confirmBtnText="确定" cancelBtnText="取消"></confirm>
 ```
 
+## 效果图
+
+
+
 
 
 
