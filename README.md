@@ -23,7 +23,7 @@ template模板使用例子如下
 
 ## 效果图
 
-
+![](https://github.com/songhaoreact/vue-better-confirm/blob/master/gif.gif)
 
 
 
